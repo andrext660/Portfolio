@@ -1,0 +1,56 @@
+.navigation h1 {
+    background-color: rgb(240, 91, 6);
+    color: white;
+    margin-left: 100px;
+    font-size: 35px;
+}
+
+ul{
+    list-style: none;
+    padding: 0px;
+    color: gray;
+    
+}
+.titulo-artigo h1{
+    margin-left: 100px;
+    font-size: 48px;
+    font: arial;
+    width: 1000px;
+}
+
+.content{
+    margin-left: 100px;
+    
+}
+
+.titulo{
+    margin-left: 100px;
+    margin-bottom: 30pt;
+    
+}
+
+.content img{
+    width: 600px;
+   
+}
+
+.content p{
+   
+    font-size: 13pt;
+}
+
+figcaption{
+    font-size: 12px;
+}
+.content h4{
+    font-size: 14pt;
+}
+.content h5{
+    font-size: 16pt;
+}
+
+li{
+    line-height: 25pt;
+    font-size: 14pt;
+    
+}
